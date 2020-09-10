@@ -1,6 +1,6 @@
 {
   "name": "@scripty/webpack-after-compile-plugin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Danijel Garic",
   "license": "MIT",
   "description": "",
